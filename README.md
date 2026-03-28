@@ -73,11 +73,11 @@ RegisterNumber:  25000390
 ```
 
 ## Output:
-![alt text](<Screenshot 2026-02-15 122749.png>)
-![alt text](<Screenshot 2026-02-15 122805.png>)
-![alt text](<Screenshot 2026-02-15 122822.png>)
-![alt text](<Screenshot 2026-02-15 122836.png>)
-![alt text](<Screenshot 2026-02-15 122911.png>)
+<img width="646" height="125" alt="Screenshot 2026-03-28 101825" src="https://github.com/user-attachments/assets/821a3c09-a324-4e95-acb9-b9c687939420" />
+
+<img width="475" height="90" alt="Screenshot 2026-03-28 101852" src="https://github.com/user-attachments/assets/c636858a-02a5-4917-905f-6a3f9e16b791" />
+
+<img width="713" height="545" alt="image" src="https://github.com/user-attachments/assets/d2275f8d-0ad4-4f48-bf2a-f0698b53a79b" />
 
 ## Result:
 Thus, the program to implement the multiple linear regression model with cross-validation for predicting car prices is written and verified using Python programming.
